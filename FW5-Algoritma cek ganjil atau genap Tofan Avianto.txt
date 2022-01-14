@@ -1,0 +1,6 @@
+1. mulai
+2. deklarasi variable x
+3. masukkan bilangan x
+4. jika x modulus 2 = 1, maka x adalah bilangan ganjil
+5. jika tidak, maka x adalah bilangan genap
+6. selesai

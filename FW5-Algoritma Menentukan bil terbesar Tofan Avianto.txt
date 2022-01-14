@@ -1,0 +1,7 @@
+1. mulai
+2. deklarasi variable x dan y
+3. masukkan bilangan pada x dan y
+4. jika y lebih dari bilangan x, maka y bilangan terbesar
+5. jika tidak, maka x lebih besar
+6. tampilkan bilangan terbesar
+7. selesai

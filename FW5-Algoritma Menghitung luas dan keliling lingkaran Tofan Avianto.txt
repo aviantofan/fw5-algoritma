@@ -1,0 +1,9 @@
+1. Mulai
+2. tentukan jari jari lingkaran ( r = 7 )
+3. jika bisa di bagi 7, maka pi = 22/7
+4. jika bukan maka pi = 3,14
+5. masukkan jari jari lingkaran ke dalam rumus keliling ( 2 x 22/7 x 7 )
+6. lalu hitung keliling lingkaran
+7. setelah mendapat hasil keliling, maka hitung luas lingkaran (22/7 x 7 x 7)
+8. setelah itu maka hasil keliling dan luas lingkaran didapat
+9. selesai
